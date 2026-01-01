@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://64.media.tumblr.com/651cecdcfb468e49de3930f14e9f8629/8e36c939f3e42a4c-22/s400x600/63e1f1f872fe974830ff6e669929838c1174d1a8.pnj" alt="wato" align="right" height="350">
+<img src="https://64.media.tumblr.com/28e9efdf2b031cba9161aaf96a9d947a/8e36c939f3e42a4c-ec/s400x600/2ab3f87236f4c208fc69c67bfe93a34a53c8e026.pnj" alt="wato" align="right" height="350">
 
 <div align="center">
 
