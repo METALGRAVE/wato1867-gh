@@ -17,14 +17,12 @@
 
 </div>
 
-<img src="https://64.media.tumblr.com/28e9efdf2b031cba9161aaf96a9d947a/8e36c939f3e42a4c-ec/s400x600/2ab3f87236f4c208fc69c67bfe93a34a53c8e026.pnj" alt="wato" align="right" height="350">
+<img src="https://64.media.tumblr.com/651cecdcfb468e49de3930f14e9f8629/8e36c939f3e42a4c-22/s400x600/63e1f1f872fe974830ff6e669929838c1174d1a8.pnj" alt="wato" align="right" title="ac: pavlovianbell" height="350">
 
 <div align="center">
 
+  <img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s400x600/2cbf1a6d3747c95e863f3e90038ed37a134e20b8.pnj">
   
-<br>    
-<br>    
-<br>    
 <br>    
 <br>  
 
@@ -34,3 +32,7 @@ $\color{#A6D113FF}{\textsf{About meAbout meAbout meAbout me}}$<br>
 $\color{#A6D113FF}{\textsf{(About meAbout meAbout meAbout me}}$<br>
 $\color{#A6D113FF}{\textsf{About meAbout meAbout meAbout me}}$<br>
 $\color{#A6D113FF}{\textsf{About meAbout meAbout meAbout me}}$<br>
+
+<br>
+
+<img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s400x600/2cbf1a6d3747c95e863f3e90038ed37a134e20b8.pnj">
