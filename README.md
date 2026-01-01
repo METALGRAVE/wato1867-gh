@@ -13,4 +13,4 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=26C519&background=FFFFFF00&vCenter=true&repeat=false&width=250&height=150&lines=%22+...+do+you+believe+in+free+will%3F+%22" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=A6D113&background=FFFFFF00&repeat=false&width=345&lines=%22+i+think+so.+i+mean..+i+like+to+be+optimistic.+%22" alt="Typing SVG" /></a>
 
-<img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s1280x1920/4da57a910f7876804830d6e5f307e607504b936c.pnj" alt="img star div" width="700">
+<img src="https://64.media.tumblr.com/fd7be7fdfa56e5ad21be4c07889e916a/bffd9988782c76d9-46/s1280x1920/1d93222ac25f80b5cd8596e48cb0c7c27a818bdf.pnj" alt="img star div" width="700">
