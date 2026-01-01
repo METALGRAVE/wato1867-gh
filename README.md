@@ -24,7 +24,6 @@
 
   <a href="https://youtu.be/5XEMCM8n1XQ?si=N0yf0GLCpQxf7JUA"><img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s400x600/2cbf1a6d3747c95e863f3e90038ed37a134e20b8.pnj"></a>
   
-<br>    
 <br>  
 
 $\color{#A6D113FF}{\textsf{About meAbout meAbout meAbout me}}$ <br>
