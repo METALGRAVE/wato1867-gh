@@ -10,6 +10,7 @@
 <br>
 <img src="https://64.media.tumblr.com/04b9f9945d491a96e96ce8349bf223d7/bffd9988782c76d9-53/s1280x1920/5213e201c1e2c45e313ae3028c2f5612a8e13a62.gifv" alt="gif star div" width="550">
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=26C519&background=FFFFFF00&vCenter=true&repeat=false&width=250&height=150&lines=%22+...+do+you+believe+in+free+will%3F+%22" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=A6D113&background=FFFFFF00&repeat=false&width=345&lines=%22+i+think+so.+i+mean..+i+like+to+be+optimistic.+%22" alt="Typing SVG" /></a>
 
-<hr>
+<img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s1280x1920/4da57a910f7876804830d6e5f307e607504b936c.pnj" alt="img star div" width="700">
