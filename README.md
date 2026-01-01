@@ -39,9 +39,10 @@ $\color{#A6D113FF}{\textsf{About meAbout meAbout meAbout me}}$<br>
 <img src="https://64.media.tumblr.com/180e1c92ed90e4ddab67179d3dc0063c/bffd9988782c76d9-4f/s400x600/2cbf1a6d3747c95e863f3e90038ed37a134e20b8.pnj">
 
 <img src="https://64.media.tumblr.com/fd7be7fdfa56e5ad21be4c07889e916a/bffd9988782c76d9-46/s1280x1920/1d93222ac25f80b5cd8596e48cb0c7c27a818bdf.pnj" alt="img star div" width="700">
+<br><br>
 
 [words](https link goes here) [words](https link goes here) [words](https link goes here) [words](https link goes here)
 
 
- <img src="https://64.media.tumblr.com/ec54b24c8f3ed182887dfddb837e1724/4cfb6372a693d52e-47/s1280x1920/f26364227cfe9c95f45ab52f8a21cb9b1ba2985b.pnj" alt="wato chibi" width="250">
+ <img src="https://64.media.tumblr.com/ec54b24c8f3ed182887dfddb837e1724/4cfb6372a693d52e-47/s1280x1920/f26364227cfe9c95f45ab52f8a21cb9b1ba2985b.pnj" alt="wato chibi" width="150">
 
